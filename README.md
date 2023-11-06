@@ -1,2 +1,2 @@
 # project
-my web weather app project 
+web weather application , with real time location updates and details
