@@ -15,5 +15,4 @@ web weather application , with real time location updates and details
 
       3 USE SELF GENERATED KEY ONLY
 
-   * ----------------------------------------- *
 
